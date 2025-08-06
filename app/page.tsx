@@ -123,7 +123,7 @@ export default function SnakeGame() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-4">
-      <h1 className="text-3xl font-bold mb-4">贪吃蛇游戏</h1>
+      <h1 className="text-3xl font-bold mb-4">贪吃蛇游戏!</h1>
       <div className="mb-4">
         得分: <span className="font-bold">{score}</span>
       </div>
